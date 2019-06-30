@@ -1,3 +1,4 @@
 # pandaslibrary
 Pandas Library, HOW TO 
-First steps of using pandas library.
+Pandas Basics.ipynb: First steps of using pandas library.
+Selecting_Columns.ipynb : How to select columns in Pandas
